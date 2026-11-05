@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# App data — personal, do not publish
+expenses.json
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
